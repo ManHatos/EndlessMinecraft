@@ -1,0 +1,10 @@
+{
+  "name": "endlessmc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ManHat",
+  "license": "ISC",
+  "dependencies": {
+    "oceanic.js": "^1.7.0"
+  }
+}
