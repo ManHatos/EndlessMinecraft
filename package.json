@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "ManHat",
   "license": "ISC",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "oceanic.js": "^1.7.0"
   }
