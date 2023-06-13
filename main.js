@@ -1,5 +1,3 @@
-process.env.token = "MTEwMjk0ODQ0ODIwODE3NTE3NQ.G6nbCc.9-BN9rr4UA7-ZJqEI60_ubbygA10pWfZcpoqRc";
-
 const oceanic = require("oceanic.js");
 const fs = require("node:fs");
 

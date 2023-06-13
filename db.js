@@ -1,5 +1,3 @@
-process.env.url = "redis://default:11uqnjyVXvcWeWrTzHbU@containers-us-west-143.railway.app:6819";
-
 const Redis = require("ioredis");
 const db = new Redis(process.env.url);
 
